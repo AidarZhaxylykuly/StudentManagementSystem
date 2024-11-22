@@ -1,0 +1,20 @@
+INFO 2024-11-23 00:26:19,400 autoreload Watching for file changes with StatReloader
+INFO 2024-11-23 00:46:35,818 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-23 00:46:42,674 basehttp "GET / HTTP/1.1" 404 3129
+WARNING 2024-11-23 00:46:43,850 basehttp "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 3243
+WARNING 2024-11-23 00:46:43,871 basehttp "GET /apple-touch-icon.png HTTP/1.1" 404 3207
+WARNING 2024-11-23 00:46:50,513 basehttp "GET /admin/ HTTP/1.1" 404 3165
+INFO 2024-11-23 00:46:54,066 basehttp "GET /api/auth HTTP/1.1" 301 0
+INFO 2024-11-23 00:46:54,157 basehttp "GET /api/auth/ HTTP/1.1" 200 5298
+INFO 2024-11-23 00:46:54,302 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-11-23 00:46:54,306 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-11-23 00:46:54,309 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-11-23 00:46:54,310 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-11-23 00:46:54,315 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-11-23 00:46:54,321 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-11-23 00:46:54,322 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-11-23 00:46:54,322 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-11-23 00:46:54,326 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-11-23 00:46:54,327 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-11-23 00:46:54,328 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-11-23 00:46:54,492 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
